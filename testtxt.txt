@@ -1,2 +1,4 @@
 Hello World
 The quick brown fox jumped over the lazy dog
+Ice cream
+I know how to use git now
